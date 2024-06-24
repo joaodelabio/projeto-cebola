@@ -54,19 +54,19 @@ main {
 
 .book-image {
   position: absolute;
-  left: -500px; /* Ajuste conforme necessário para posicionar a imagem fora do retângulo */
+  left: -500px; 
   top: 50%;
   transform: translateY(-50%);
-  width: 400px;  /* Ajuste a largura da imagem conforme necessário */
+  width: 400px;  
   height: auto;
 }
 
 header {
   position: absolute;
-  top: 50px; /* Ajuste conforme necessário para posicionar o header */
+  top: 50px; 
 }
 
 header h2 {
-  margin-bottom: 10px; /* Ajuste conforme necessário para a distância entre o texto e a imagem */
+  margin-bottom: 10px; 
 }
 </style>
